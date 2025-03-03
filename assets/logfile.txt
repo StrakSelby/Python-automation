@@ -1,0 +1,11 @@
+INFO: System startup successful
+ERROR: Failed to connect to database
+WARNING: High memory usage detected
+error: Unable to access configuration file
+INFO: Service restarted successfully
+ERROR: Timeout occurred while processing request
+error: Disk space low
+INFO: Backup completed successfully
+WARNING: Network latency detected
+ERROR: Authentication failed
+error: Configuration mismatch detected
